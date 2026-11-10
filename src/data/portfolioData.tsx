@@ -142,7 +142,9 @@ export const PROJECTS: ProjectItem[] = [
       "Expand event participation and community engagement features.",
       "Improve testing and application performance.",
     ],
-
+    liveUrl: "https://uddog-client-wheat.vercel.app/",
+    clientRepoUrl: "https://github.com/Soha-Tabassom-Supre/uddog-client",
+    serverRepoUrl: "https://github.com/Soha-Tabassom-Supre/uddog-server",
     featured: true,
   },
 
@@ -167,6 +169,8 @@ export const PROJECTS: ProjectItem[] = [
       "Improve application reliability and error handling.",
       "Expand functionality and refine the user experience.",
     ],
+    liveUrl: "https://bazar-dor-pi-ten.vercel.app",
+    clientRepoUrl: "https://github.com/Soha-Tabassom-Supre/Bazar-Dor",
 
     featured: true,
   },
@@ -193,10 +197,10 @@ export const PROJECTS: ProjectItem[] = [
       "Expand application functionality.",
     ],
 
+    liveUrl: "https://fitlog-peach.vercel.app/",
+    clientRepoUrl: "https://github.com/Soha-Tabassom-Supre/fitlog",
     featured: true,
   },
-
-
 ];
 
 
